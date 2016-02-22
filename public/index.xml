@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Track Nut - A passion for cycling</title>
+    <link>http://tracknut.ca/</link>
+    <description>Recent content on Track Nut - A passion for cycling</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <copyright>All rights reserved - 2016</copyright>
+    <lastBuildDate>Sun, 21 Feb 2016 10:17:28 -0500</lastBuildDate>
+    <atom:link href="http://tracknut.ca/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Essential Rules of the Track</title>
+      <link>http://tracknut.ca/rules/thebasics/</link>
+      <pubDate>Sun, 21 Feb 2016 10:17:28 -0500</pubDate>
+      
+      <guid>http://tracknut.ca/rules/thebasics/</guid>
+      <description>
+
+&lt;h2 id=&#34;you-must-follow:b86a239cf9868ac85a3f8d67be071bca&#34;&gt;You Must Follow&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Always yell stick when overtaking any rider, individual or a paceline&lt;/li&gt;
+&lt;li&gt;Always shoulder check before moving up/down track&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>first post</title>
+      <link>http://tracknut.ca/post/first/</link>
+      <pubDate>Sat, 20 Feb 2016 19:34:30 -0500</pubDate>
+      
+      <guid>http://tracknut.ca/post/first/</guid>
+      <description>
+
+&lt;h2 id=&#34;my-first-post:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;My First Post&lt;/h2&gt;
+
+&lt;p&gt;This is a pure test post&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about TrackNut</title>
+      <link>http://tracknut.ca/about/</link>
+      <pubDate>Sat, 20 Feb 2016 19:32:06 -0500</pubDate>
+      
+      <guid>http://tracknut.ca/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome-to-tracknut-ca:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Welcome to TrackNut.ca&lt;/h1&gt;
+
+&lt;p&gt;This is th about page Eventually content will go here&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

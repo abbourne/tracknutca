@@ -1,0 +1,56 @@
+baseurl = "http://tracknut.ca/"
+languageCode = "en-ca"
+title = "Track Nut - A passion for cycling"
+paginate = 5
+DisqusShortname = "tracknutca"
+Copyright = "All rights reserved - 2016"
+# canonifyurls = true
+theme = "casper"
+
+# Grid-Side theme configuration
+SectionPagesMenu = "Main"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[params]
+  description = "this is my description"
+  author = "Bill Bourne"
+  authorlocation = "Ottawa, Ontario, Canada"
+  #authorwebsite = "http://vjeantet.fr"
+  #bio= "note about me"
+  cover = "graphics/Track-Cover-Photo.jpg"
+  logo = "graphics/cycling-logo-blue-red.png"
+  #googleAnalyticsUserID = "UA-79101-12"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  #RSSLink = "http://feeds.feedburner.com/..."
+  #githubName = "abbourne"
+  twitterName = "abbourne"
+  facebookName = "abbourne"
+  #linkedinName = "http://ca.linkedin.com/in/williambourne/"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+
+
+
+[[menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "blog"
+  url = "/"
+
+[[menu.main]]
+  name = "About"
+  weight = 20
+  identifier = "about"
+  url = "/about"
+
+[[menu.main]]
+  name = "The Rules"
+  weight = 30
+  identifier = "rules"
+  url = "/rules"
+
+
+
+
