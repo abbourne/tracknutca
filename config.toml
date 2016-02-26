@@ -1,28 +1,31 @@
 baseurl = "http://tracknut.ca/"
 languageCode = "en-ca"
-title = "Track Nut - A passion for cycling"
+title = "Track Nut"
 paginate = 5
 DisqusShortname = "tracknutca"
 Copyright = "All rights reserved - 2016"
-# canonifyurls = true
+canonifyurls = false
 theme = "casper"
-
-# Grid-Side theme configuration
-SectionPagesMenu = "Main"
 
 [blackfriday]
   hrefTargetBlank = true
 
+# Grid-Side theme configuration
+SectionPagesMenu = "Main"
+
 [params]
-  description = "this is my description"
-  author = "Bill Bourne"
-  authorlocation = "Ottawa, Ontario, Canada"
+  description = "Rekindling the passion for track cycling"
+  author = "no-author"
+  #authorlocation = "Ottawa, Ontario, Canada"
   #authorwebsite = "http://vjeantet.fr"
   #bio= "note about me"
   cover = "graphics/Track-Cover-Photo.jpg"
+  headerimage = "graphics/FCV-Header-Photo.jpg"  #Used in list pages of sections
   logo = "graphics/cycling-logo-blue-red.png"
+  bottomlogo = "graphics/bicycle-round-black-notext-280x280.png"
+  listlogo = "graphics/bicycle-round-black-notext-280x280.png"
   #googleAnalyticsUserID = "UA-79101-12"
-  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  # Optional RSS-Link, if not provided it defaults to the standard index.xm
   #RSSLink = "http://feeds.feedburner.com/..."
   #githubName = "abbourne"
   twitterName = "abbourne"
@@ -31,25 +34,36 @@ SectionPagesMenu = "Main"
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
 
-
-
 [[menu.main]]
   name = "Home"
   weight = 10
-  identifier = "blog"
+  identifier = "Home"
   url = "/"
 
 [[menu.main]]
   name = "About"
   weight = 20
-  identifier = "about"
+  identifier = "About"
   url = "/about"
+
+[[menu.main]]
+  name = "Posts"
+  weight = 25
+  identifier = "Posts"
+  url = "/post"
 
 [[menu.main]]
   name = "The Rules"
   weight = 30
-  identifier = "rules"
+  identifier = "The Rules"
   url = "/rules"
+
+[[menu.main]]
+  name = "Track Resources"
+  weight = 40
+  identifier = "Track Resources"
+  description = "Lots of interesting stuff"
+  url = "/resources"
 
 
 
