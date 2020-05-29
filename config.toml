@@ -21,7 +21,7 @@ SectionPagesMenu = "Main"
   #bio= "note about me"
   cover = "graphics/Track-Cover-Photo.jpg"
   headerimage = "graphics/FCV-Header-Photo.jpg"  #Used in list pages of sections
-  logo = "graphics/cycling-logo-blue-red.png"
+  #logo = "graphics/cycling-logo-blue-red.png"
   bottomlogo = "graphics/bicycle-round-black-notext-280x280.png"
   listlogo = "graphics/bicycle-round-black-notext-280x280.png"
   #googleAnalyticsUserID = "UA-79101-12"
@@ -33,6 +33,14 @@ SectionPagesMenu = "Main"
   #linkedinName = "http://ca.linkedin.com/in/williambourne/"
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
+  sidebarHeader = "Sidebar Header"
+  sidebarText = "Here's a [link to google](https://www.google.com)"
+  sidebarMenuEnabled = true
+  sidebarMenuHeader = "Sidebar Links"
+  github = "https://github.com/parsiya/"
+  bitbucket = "https://bitbucket.org/parsiya/"
+  twitter = "https://twitter.com/cryptogangsta/"
+  keybase = "https://keybase.io/parsiya/"
 
 [[menu.main]]
   name = "Home"
@@ -64,7 +72,6 @@ SectionPagesMenu = "Main"
   identifier = "Track Resources"
   description = "Lots of interesting stuff"
   url = "/resources"
-
 
 
 

@@ -1,57 +1,331 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Track Nut - A passion for cycling</title>
+    <title>Track Nut</title>
     <link>http://tracknut.ca/</link>
-    <description>Recent content on Track Nut - A passion for cycling</description>
+    <description>Recent content on Track Nut</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-ca</language>
     <copyright>All rights reserved - 2016</copyright>
-    <lastBuildDate>Sun, 21 Feb 2016 10:17:28 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 24 Feb 2016 23:01:52 -0500</lastBuildDate>
     <atom:link href="http://tracknut.ca/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>The Essential Rules of the Track</title>
+      <title>Velodrome Basics</title>
+      <link>http://tracknut.ca/resources/aboutvelodromes/</link>
+      <pubDate>Wed, 24 Feb 2016 23:01:52 -0500</pubDate>
+      
+      <guid>http://tracknut.ca/resources/aboutvelodromes/</guid>
+      <description>&lt;p&gt;This page gives you a detailed tour around velodromes, using the two indoor velodromes in Ontario as examples:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mattamynationalcyclingcentre.ca/&#34; target=&#34;_blank&#34;&gt;Mattamy National Cycling Centre&lt;/a&gt; in Milton. This was the 2015 Pan AM Games velodrome, Its a &lt;a href=&#34;http://www.uci.ch/track/news/article/what-you-should-know-about-velodromes/&#34; target=&#34;_blank&#34;&gt;UCI Class 1 velodrome&lt;/a&gt;, one of only two in North America&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.forestcityvelodrome.ca/&#34; target=&#34;_blank&#34;&gt;Forest City Velodrome&lt;/a&gt; in London Ontario. This is the smallest permanent indoor velodrome in the world, and incredibly fun to ride.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://www.mattamynationalcyclingcentre.ca/en/the-centre/Cycling-Track.asp&#34; target=&#34;_blank&#34;&gt;Milton Velodrome&lt;/a&gt;, conforms to the dimensions of a &lt;a href=&#34;http://www.uci.ch/track/news/article/what-you-should-know-about-velodromes/&#34; target=&#34;_blank&#34;&gt;UCI Class 1 velodrome&lt;/a&gt;: a 250-metre long, 7-metre wide timber track constructed from smooth, untreated Siberian Spruce, with 42-degree banked bends and 13-degree banked straights. Check out the view of the track below:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://tracknut.ca/images/View-of-Milton-Velodrome-annotated.jpg&#34; alt=&#34;Looking from the top of the banking along the finishing straight&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;A View of the Milton Velodrome&lt;/h4&gt;
+        &lt;p&gt;
+        Looking from the top of the banking along the finishing straight
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://tracknut.ca/images/track-markings-1.png&#34; alt=&#34;This diagram shows all the markings on a 250 meter track&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Standard Velodrome Markings&lt;/h4&gt;
+        &lt;p&gt;
+        This diagram shows all the markings on a 250 meter track
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;The track is divided into sections as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The infield of the track is the gathering place used when getting ready to ride, and after riding. In a multi-use facility, like the Milton Track, the infield will also be used for basketball, vollyball, badminton, and other gym sports. &lt;em&gt;The infield is a great place to hang out and socialize with other riders and coaches. Hanging out here is definitely encouraged!&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;The safety zone is not part of the track surface. Its used to &amp;ldquo;roll-out&amp;rdquo; to get up to speed to enter the track, and to cool down after riding. &lt;em&gt;Its important not to obstruct the safety zone, and when on the safety zone to ride slowly, and as far away from the track surface as possible.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;The cote d&amp;rsquo;azur, or just &amp;ldquo;cote&amp;rdquo; for short, is the cyan colored (hence its name) part of the track surface which is used to transition onto and off of the track. Its not considered part of the track proper. &lt;em&gt;Don&amp;rsquo;t ride on the cote, except when getting on and off the track, and make your time on the cote as short as possible.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;The black &amp;ldquo;datum&amp;rdquo; line is twenty centimeters (20cm) above bottom of the track. Its 5cm wide, and its inside edge defines the actual length of the track. The black line is marked every 5 meters and numbered every 10 meters.&lt;/li&gt;
+&lt;li&gt;The red &amp;ldquo;sprinters&amp;rdquo; line is 90cm higher up again. Between the red and black lines (referred to as the &amp;ldquo;sprinter&amp;rsquo;s lane), riding as close to the black line as possible, is the shortest and most efficient path around the track. Once a rider is racing in this zone, anyone wishing to pass them must go around above them, one can&amp;rsquo;t try to push a rider out of the lane, cut down on them, or try to pass below. &lt;em&gt;This is also true in recreational track cycling - one never ever passes below a rider who is riding at the red line or lower. Always pass above.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;The blue &amp;ldquo;stayer&amp;rsquo;s&amp;rdquo; line is about one-third the width of the track from the bottom. This line is used for specific racing events such as the Madison or motor-paced events. &lt;em&gt;During recreational track use, pace lines of riders will form at either in the sprinter&amp;rsquo;s lane, or at the blue line. Faster lines ride on the blue, slower lines inside red. The slower sprinter&amp;rsquo;s lane riders never go above the blue, even when passing or exchanging. The faster blue line riders never drop below the blue.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;At the Forest City Velodrome (see below) there is also a yellow warning line at the top of the track. &lt;em&gt;One should not ride above this line.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A 250 meter UCI class 1 track also has the following lines:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The main start/finish line is a black line, surrounded by white bars that across the track at the end of one of the straightaways, a few metres from the start of the bend.&lt;/li&gt;
+&lt;li&gt;Red lines running across the track on opposite sides halfway along each straightaway mark the start-finish lines for pursuit events.&lt;/li&gt;
+&lt;li&gt;A thin white line in the middle of the first banking, 200m from the finish line, marks the start of the length used for Sprint qualifying (200m flying lap)&lt;/li&gt;
+&lt;li&gt;Another thin white line in the first part of the final banking represents 100m to the finish line.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://tracknut.ca/images/View-of-FCV-velodrome-annotated.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Forest City Velodrome Track Surface&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;https://www.forestcityvelodrome.ca/&#34; target=&#34;_blank&#34;&gt;Forest City Velodrome&lt;/a&gt; by comparison is 138 meters in length, with 51-degree bankings, 17-degree straights, and a much narrower track surface. The surface is plywood. Here&amp;rsquo;s a couple of views of the facility:&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://tracknut.ca/images/View-of-FCV-velodrome.jpg&#34; alt=&#34;Overview of the facility from the stands&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Forest City Velodrome&lt;/h4&gt;
+        &lt;p&gt;
+        Overview of the facility from the stands
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://tracknut.ca/images/FCV-infield-view.jpg&#34; alt=&#34;View from the middle of the infield, looking towards the final banking&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Forest City Velodrome&lt;/h4&gt;
+        &lt;p&gt;
+        View from the middle of the infield, looking towards the final banking
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;There are also outdoor velodromes, where 333.3 meters and 400 meters are common sizes. In addition to wood, outdoor velodrome surfaces can also be concrete or asphalt. Over time, the standard track length for international competition has shortened from 333.33m to 250m. The web sites for most velodromes will include an overview of velodromes, and a detailed description of their tracks. For a list of velodromes around the world, see &lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_cycling_tracks_and_velodromes&#34; target=&#34;_blank&#34;&gt;Wikipedia&amp;rsquo;s list of velodromes&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Joy of Recreational Track Cycling</title>
+      <link>http://tracknut.ca/post/first/</link>
+      <pubDate>Wed, 24 Feb 2016 19:34:30 -0500</pubDate>
+      
+      <guid>http://tracknut.ca/post/first/</guid>
+      <description>&lt;p&gt;In the depths of winter, options for cycling become less appealing… Do I ride outdoors in the cold, wet, and wind? Or sweat it out indoors on a trainer, listening to music or a video to combat the boredom?&lt;/p&gt;
+
+&lt;p&gt;There’s another option! With the construction of the &lt;a href=&#34;http://www.mattamynationalcyclingcentre.ca/en/index.asp&#34; target=&#34;_blank&#34;&gt;Mattamy National Cycling Centre&lt;/a&gt;  for the Pan Am Games, there’s a beautiful world-class indoor velodrome facility within reasonable driving distance of Ottawa. I expect many people associate “velodrome” with competitive cycling - that it’s just for the racers, cyclo-sportifs, the “really fast guys”. Nothing could be further from the truth!
+I’ve been going to Milton weekly to ride the track recreationally and am loving it! I’m a 60 year-old, Touring 2 kind of dude and I fit right in to the Mattamy velodrome culture. The vast majority of the track use is recreational, and the programs are primarily designed with the recreational rider in mind.  Everyone rides - riders range in age from 10 to 93. (Really, there’s a 93 year-old who rides at the drop-in sessions!). Most riders are “middle-aged”. There are many women riders, and there are women’s-specific programs. There are whole families that ride together.&lt;/p&gt;
+
+&lt;p&gt;And here’s the thing. Its always warm, dry, and calm – you are guaranteed a pleasant, fun ride. People are open, friendly and helpful. It’s interesting and engaging. You can ride on your own, but its much more fun to ride in a pace line with other riders. It’s a nice change from riding the road. It’s a great way to keep fit and keep your cycling skills up over the winter months. You don’t even need your own track bike… the track has a large number of nice Argon 18 track bikes you can rent for a modest fee.&lt;/p&gt;
+
+&lt;p&gt;Although it’s a beautiful track that’s easy to ride, it does require some training to get started. To ride the track you need to obtain a track certification. It’s not hard to do, especially if you are already an experienced road-touring rider. You can find the details on the Mattamy Cycling Centre’s &lt;a href=&#34;http://www.mattamynationalcyclingcentre.ca/en/participate/Registered-Cycling-Programs.asp&#34; target=&#34;_blank&#34;&gt;Cycling Programs&lt;/a&gt; web page, and in their detailed &lt;a href=&#34;http://www.mattamynationalcyclingcentre.ca/en/the-centre/resources/Cycling-Program-Progression.pdf&#34; target=&#34;_blank&#34;&gt;Cycling Program Progression chart&lt;/a&gt;. The Cycling Centre’s “&lt;a href=&#34;http://www.mattamynationalcyclingcentre.ca/en/participate/Get-on-the-Track.asp&#34; target=&#34;_blank&#34;&gt;Get on the Track&lt;/a&gt;” programs are the entry point to riding the velodrome. You have 3 options:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The neophyte can take the “Introduction to Track Cycling” program, four weekly sessions of 2 hours each. There are separate courses for 10-13 year olds, 14-18 year-olds, adults, and women only. At the end of this training, you will have your certification.&lt;/li&gt;
+&lt;li&gt;There is a two-class certification training … “Track Certification A”, and “Track Certification B”. Experienced adult cyclists, (which would be most OBC members) can go this route to get certified in two sessions.&lt;/li&gt;
+&lt;li&gt;If you are an experienced track rider, you can just take the “Track Certification B” class to get certified. I went this route, although I hadn’t ridden a track in over 30 years.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Once you are certified, you can attend the Cycling Centre’s “&lt;a href=&#34;http://www.mattamynationalcyclingcentre.ca/en/participate/drop-in-cycling.asp&#34; target=&#34;_blank&#34;&gt;Drop-In Sessions&lt;/a&gt;”. There are multiple 1 hour or 90-minute sessions every day of the week. These are the equivalent of a “club ride” – oriented to group fun riding for exercise and fitness. There’s a maximum of 30 riders per session, so you have to sign up in advance.  A certified facilitator monitors them; people ride in a controlled, steady state, pace line style riding in multiple groups (although you can ride alone). Of course, people vary in fitness level; you can always find some folks at your level of fitness to ride with.&lt;/p&gt;
+
+&lt;p&gt;Once you have some experience track riding, you can register for the &lt;a href=&#34;http://www.mattamynationalcyclingcentre.ca/en/participate/Ride-the-Track.asp&#34; target=&#34;_blank&#34;&gt;coached training courses&lt;/a&gt;. I’ve taken the “Structured Endurance Training”, “Structured Track Training”, &amp;ldquo;Structured Sprint Training&amp;rdquo; and &amp;ldquo;Structured Motorpace Training&amp;rdquo; courses, which develop fitness though a “sportif” style, using race-training techniques. There’s a “Track Cycle Fit” program for recreational fitness. You can also take the “Track Cycling Skills Development” course to develop riding skills and technique. And there are many other courses available.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://tracknut.ca/images/Structured-Sprint-Training-1.jpg&#34; alt=&#34;That&amp;#39;s Steve Bauer giving one of the participants a head start! Its all in good fun.&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Structured Sprint Training&lt;/h4&gt;
+        &lt;p&gt;
+        That&amp;#39;s Steve Bauer giving one of the participants a head start! Its all in good fun.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://tracknut.ca/images/Structured-Sprint-Training-2.jpg&#34; alt=&#34;The sprint is on! Coming into the finishing straight&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Structured Sprint Training&lt;/h4&gt;
+        &lt;p&gt;
+        The sprint is on! Coming into the finishing straight
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Riding the track is actually very safe… because everyone is certified everyone has been trained and follows a consistent set of basic rules. I’ve never seen a “close call”, let alone an accident. All riders at the drop-ins and recreational programs look out for others and ride prudently.&lt;/p&gt;
+
+&lt;p&gt;I love just being at the track… it’s an active and open place dripping with cycling culture. Sitting on the infield before or after your own session is an experience in itself. Watch the pre-teens developing their cycling skills, see the national team riders training, chat about cycling with your fellow cyclists. It’s just a fun place to be.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ontario Track Cycling Resources</title>
+      <link>http://tracknut.ca/resources/ontario-track-resources/</link>
+      <pubDate>Mon, 22 Feb 2016 12:56:06 -0500</pubDate>
+      
+      <guid>http://tracknut.ca/resources/ontario-track-resources/</guid>
+      <description>&lt;p&gt;This page contains links to velodromes and organizations of interest to riders in Ontario&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a bunch of information and links on the velodromes in, and near Ontario&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mattamynationalcyclingcentre.ca/&#34; target=&#34;_blank&#34;&gt;Mattamy National Cycling Centre&lt;/a&gt; in Milton. This was the 2015 Pan AM Games velodrome, Its a &lt;a href=&#34;http://www.uci.ch/track/news/article/what-you-should-know-about-velodromes/&#34; target=&#34;_blank&#34;&gt;UCI Class 1 velodrome&lt;/a&gt;, one of only two in North America. &lt;a href=&#34;https://www.flickr.com/photos/billbourne/albums/72157662123757372&#34; target=&#34;_blank&#34;&gt;Here&amp;rsquo;s a few photos&lt;/a&gt; of riding at the Mattamy National Cycling centre, where we ride regularly.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.forestcityvelodrome.ca/&#34; target=&#34;_blank&#34;&gt;Forest City Velodrome&lt;/a&gt; in London Ontario. This is the smallest permanent indoor velodrome in the world, and incredibly fun to ride. &lt;a href=&#34;https://www.flickr.com/photos/billbourne/albums/72157659949577833&#34; target=&#34;_blank&#34;&gt;Here&amp;rsquo;s some photos and a FPV video&lt;/a&gt; that give you a sense of what the world&amp;rsquo;s most exciting velodrome is like to ride.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://centrenationalbromont.com/velodrome/&#34; target=&#34;_blank&#34;&gt;Bromont Velodrome&lt;/a&gt;, in Bromont Quebec east of Montreal, is a 250 meter wood outdoor track. The track was used for the 1996 Atlanta Olympics, and was moved to Bromont is 2000.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;http://clevelandvelodrome.org/&#34; target=&#34;_blank&#34;&gt;Cleveland Velodrome&lt;/a&gt;, in Cleveland Ohio, is a 166 meter, 50-degree banked wood outdoor velodrome built in 2012.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;http://www.ivbp.org/&#34; target=&#34;_blank&#34;&gt;Bloomer Park Velodrome&lt;/a&gt;, in Rochester Hills Michigan near Detroit, is a 200 meter, 44-degree banked wood outdoor velodrome&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;http://www.northbrookcyclecommittee.org/abouterv/&#34; target=&#34;_blank&#34;&gt;Ed Rudolph Velodrome&lt;/a&gt;, in Northbrook Illinois, near Chicago is a 382 meter, 18-degree banked concrete outdoor track.&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The &lt;a href=&#34;http://www.chicagovelocampus.com/&#34; target=&#34;_blank&#34;&gt;Chicago Velo Campus&lt;/a&gt;, in Chicago Illinois is a 166 meter, 50-degree banked plywood outdoor track, which was recently built.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ottawavelodrome.wordpress.com/&#34; target=&#34;_blank&#34;&gt;The Ottawa Velodrome Project&lt;/a&gt; is an initiative to build an indoor velodrome in the Ottawa-Gatineau national capital region.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Links to organizations involved in track cycling:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cyclingcanada.ca/sport/track/&#34; target=&#34;_blank&#34;&gt;Cycling Canada&lt;/a&gt; - Canada not only has a really strong squad of elite track racers, but Cycling Canada is putting a focus on youth development on the track.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;http://www.ontariocycling.org/sports/track/&#34; target=&#34;_blank&#34;&gt;Ontario Cycling Association&lt;/a&gt; has its headquarters at the Milton velodrome. They also are very active in youth development. Its impressive how many kids under 15, and as young as 10, are riding the track, and how well they ride!&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;http://kallistocyclingteam.weebly.com/&#34; target=&#34;_blank&#34;&gt;Kallisto FCV Cycling Club&lt;/a&gt; as a club based out of the Forest City Velodrome, that is also going multiple times a week to Milton. They are a very active club with great opportunities for riders of all levels, and a particularly strong youth program.&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;http://ncch.ca/&#34; target=&#34;_blank&#34;&gt;NCCH National Cycling Center Hamilton&lt;/a&gt; is another great with strong youth development and a great track program.&lt;/li&gt;
+&lt;li&gt;In Ottawa, the &lt;a href=&#34;http://www.ottawabicycleclub.ca/&#34; target=&#34;_blank&#34;&gt;Ottawa Bicycle Club&lt;/a&gt; has all kinds of programs for all kinds of riders. We&amp;rsquo;ve both members of the OBC&lt;/li&gt;
+&lt;li&gt;In Toronto, the &lt;a href=&#34;http://www.lapdogs.ca/&#34; target=&#34;_blank&#34;&gt;Lap Dogs Cycling Club&lt;/a&gt; has a large contingent of folks of all ages who ride the track. The Lap Dogs regularly book their own track time on the Milton velodrome. Robin is a member of the club, and Bill attends their track events and occasional club ride.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Essential Rules of the Track</title>
       <link>http://tracknut.ca/rules/thebasics/</link>
       <pubDate>Sun, 21 Feb 2016 10:17:28 -0500</pubDate>
       
       <guid>http://tracknut.ca/rules/thebasics/</guid>
       <description>
 
-&lt;h2 id=&#34;you-must-follow:b86a239cf9868ac85a3f8d67be071bca&#34;&gt;You Must Follow&lt;/h2&gt;
+&lt;p&gt;This page is deliberately short. We ride the track &lt;em&gt;a lot&lt;/em&gt; and we keep coming across people not following these essential rules, resulting is quite a number of close calls. Crashes in recreational track cycling are rare, and we want to keep them that way!&lt;/p&gt;
+
+&lt;h3 id=&#34;prerequisites:b86a239cf9868ac85a3f8d67be071bca&#34;&gt;Prerequisites&lt;/h3&gt;
+
+&lt;p&gt;If you are riding the track you have gone through a certification program, and you should already know the following. They are a prerequisite for the rules that follow:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Always yell stick when overtaking any rider, individual or a paceline&lt;/li&gt;
-&lt;li&gt;Always shoulder check before moving up/down track&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tracknut.ca/resources/aboutvelodromes/&#34; target=&#34;_blank&#34;&gt;Velodrome Layout&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mattamynationalcyclingcentre.ca/en/participate/Drop-in-Cycling_Procedures_copy.asp&#34; target=&#34;_blank&#34;&gt;Mattamy National Cycling Centre Riding Guidelines for Drop-in Cycling&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.forestcityvelodrome.ca/track_rules.php&#34; target=&#34;_blank&#34;&gt;Forest City Velodrome Track Rules&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.forestcityvelodrome.ca/handbook/FCVUsersGuide.pdf&#34; target=&#34;_blank&#34;&gt;Forest City Velodrome User&amp;rsquo;s Guide&lt;/a&gt; - The sections on track etiquette are a must read. This is an fantastic manual, with a great set of skills drills. If you ride any of the structured training sessions at either Milton or FCV, you will find yourself riding a number of these drills.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;the-rules:b86a239cf9868ac85a3f8d67be071bca&#34;&gt;The Rules&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;There are no exceptions to these rules! Just do them!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Don&amp;rsquo;t Cruise the Côte!&lt;/em&gt;
+The real Côte d&amp;rsquo;Azur is a popular place to cruise, but this isn&amp;rsquo;t that kind of côte&amp;hellip; It&amp;rsquo;s a transition zone, on or off, but not a riding lane. Becuase of the angle of the track, its easy for a rider on the black line to knock heads with a rider on the cote. And crusing on the cote means you block other riders from getting on and off the track.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;It&amp;rsquo;s Only a Safety Zone if you treat it safely.&lt;/em&gt;
+If you turn your bike around perpendicular to traffic to go back to the entrance, it&amp;rsquo;s probably a mistake;  always look, look, look &amp;ndash; don&amp;rsquo;t move out from the rail without looking, and don&amp;rsquo;t stand in the middle talking to people.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Always, always call out &amp;ldquo;stick&amp;rdquo; when overtaking any rider, individual or a paceline.&lt;/em&gt;
+Don&amp;rsquo;t be a typically polite Canadian&amp;hellip; Yell loud and clearly. it&amp;rsquo;s just the right thing to do.
+
+&lt;ul&gt;
+&lt;li&gt;In fact, when passing a paceline, you need to yell srick &lt;em&gt;twice&lt;/em&gt; - oncw when approaching the back of the line, and again when approaching the rider on the front. Think about it&amp;hellip; if you only call stick when at the back of the paceline, the lead rider won&amp;rsquo;t hear you. And he&amp;rsquo;s the rider that will be moving up track to exchange!&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Always, always shoulder check before changing you line on the track.&lt;/em&gt;
+Even if you think you know what&amp;rsquo;s going on around you, shoulder check anyway.
+
+&lt;ul&gt;
+&lt;li&gt;In fact, its a great idea to keep aware of the track as a whole. Who&amp;rsquo;s riding where and at what speeds.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Never, ever pass inside of the red line.&lt;/em&gt;
+When overtaking other riders low on the track, always go over them, never under.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;When riding in a paceline low on the track never pass the blue line when exchanging.&lt;/em&gt;
+The faster pacelines are riding on the blue line, they can come up quickly.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Drop ins are for steady paceline riding&lt;/em&gt;
+There may be times, especially late in 1.5 hour session, when some kind of effort can be made in the regular drop-in sessions (The rules for fast-pace drop-ins are different!), but not officially, and never flying laps.  And still call stick, loud and early! If you want to do fast efforts, its perfectly acceptable to do them on the blue line.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Stay calm, and be a little patient&lt;/em&gt;
+There will be times when things get a bit tricky. Holding your line, yelling stick, and shoulder-checking will address almost any issue. Patience can also be helpful:
+
+&lt;ul&gt;
+&lt;li&gt;You can delay exchanging if you are coming up on another paceline or crowded section of the track.&lt;/li&gt;
+&lt;li&gt;If you need to temporarily slow (only a little!) to keep things calm and clear, you can do so.&lt;/li&gt;
+&lt;li&gt;Just like driving, keep constant attention and keep aware on who&amp;rsquo;s around you, and what speeds others are riding at.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;A little extra communication can be useful.&lt;/em&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;&lt;em&gt;Stick Up&lt;/em&gt; or &amp;ldquo;&lt;em&gt;Stick High&lt;/em&gt;&amp;rdquo; Is an instruction to a rider higher on the track to hold their line. You are passing under&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;&lt;em&gt;Stick Low&lt;/em&gt;&amp;rdquo; or &amp;ldquo;&lt;em&gt;Stick Down&lt;/em&gt;&amp;rdquo;  Is an instruction to a rider lower on the track to hold their line. You are passing over&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;&lt;em&gt;On your Wheel&lt;/em&gt;&amp;rdquo; Lets a rider in front of you know that you have joined in behind him.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;&lt;em&gt;Drop In&lt;/em&gt;&amp;rdquo; Use this if a rider ahead of you is exchanging, there is a gap in the paceline ahead of you, and you want him to join the pace line ahead of you.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Flicking you right elbow&lt;/em&gt; is a sign to riders behind you that you are moving up track. But you will already have done a shoulder check, and the riders behind you will have noticed you shoulder check and interpreted it as an indication you &lt;em&gt;might&lt;/em&gt; be moving up track.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>first post</title>
-      <link>http://tracknut.ca/post/first/</link>
-      <pubDate>Sat, 20 Feb 2016 19:34:30 -0500</pubDate>
-      
-      <guid>http://tracknut.ca/post/first/</guid>
-      <description>
-
-&lt;h2 id=&#34;my-first-post:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;My First Post&lt;/h2&gt;
-
-&lt;p&gt;This is a pure test post&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>about TrackNut</title>
+      <title>About TrackNut</title>
       <link>http://tracknut.ca/about/</link>
       <pubDate>Sat, 20 Feb 2016 19:32:06 -0500</pubDate>
       
       <guid>http://tracknut.ca/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;welcome-to-tracknut-ca:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Welcome to TrackNut.ca&lt;/h1&gt;
-
-&lt;p&gt;This is th about page Eventually content will go here&lt;/p&gt;
+      <description>&lt;p&gt;Welcome to Track Nut!
+We&amp;rsquo;re a couple of, well &lt;em&gt;old&lt;/em&gt;, guys from Ontario that have re-discovered the joy of track cycling after over 30 years absence from the track. With the construction of the amazing &lt;a href=&#34;http://www.mattamynationalcyclingcentre.ca/en/index.asp&#34; target=&#34;_blank&#34;&gt;Mattamy National Cycling Centre&lt;/a&gt; in 2015, we couldn&amp;rsquo;t resist the lure of a &lt;a href=&#34;http://www.uci.ch/track/news/article/what-you-should-know-about-velodromes/&#34; target=&#34;_blank&#34;&gt;UCI class 1 velodrome&lt;/a&gt; on our doorstep. We&amp;rsquo;re generally on the track multiple times a week.&lt;/p&gt;
 </description>
     </item>
     

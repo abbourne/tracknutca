@@ -1,0 +1,4 @@
+<p class="asciiMath" style="text-align:center">
+  $$ {{ .Get "math" }} $$  {{ if isset .Params "comment" }}&nbsp;{{.Get "comment"}}{{ end }}
+  {{ if isset .Params "caption" }}<figcaption><h4>{{.Get "caption"}}</h4></figcaption>{{ end }}
+</p>
